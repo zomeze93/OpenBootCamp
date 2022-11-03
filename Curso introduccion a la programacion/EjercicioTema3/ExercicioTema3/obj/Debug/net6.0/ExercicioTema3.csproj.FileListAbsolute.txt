@@ -1,0 +1,15 @@
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/bin/Debug/net6.0/ExercicioTema3
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/bin/Debug/net6.0/ExercicioTema3.deps.json
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/bin/Debug/net6.0/ExercicioTema3.runtimeconfig.json
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/bin/Debug/net6.0/ExercicioTema3.dll
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/bin/Debug/net6.0/ExercicioTema3.pdb
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.csproj.AssemblyReference.cache
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.AssemblyInfoInputs.cache
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.AssemblyInfo.cs
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.csproj.CoreCompileInputs.cache
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.dll
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/refint/ExercicioTema3.dll
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.pdb
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ExercicioTema3.genruntimeconfig.cache
+/Users/elopezg/Desktop/ExercicioTema3/ExercicioTema3/obj/Debug/net6.0/ref/ExercicioTema3.dll
